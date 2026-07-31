@@ -1,4 +1,4 @@
-# Merhaba, ben Zeynep 👋
+# Merhaba, ben Zeynep
 
 Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri bölümünde 3. sınıf öğrencisiyim. Özellikle yapay zekâ, bilgisayarla görme ve otonom sistemler üzerine çalışıyorum.
 
