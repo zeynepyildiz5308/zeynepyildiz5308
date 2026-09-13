@@ -82,6 +82,6 @@ Algılama, karar verme ve kontrol katmanlarını bir araya getiren **uçtan uca 
 
 ## İletişim
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeynep%20Yıldız-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](www.linkedin.com/in/zeynepyildiz5308)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Zeynep%20Yıldız-0A66C2?style=flat-square\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/zeynepyildiz5308)
 
 </div>
