@@ -71,6 +71,6 @@ Uzun vadede algılama, karar verme ve kontrol katmanlarının birlikte çalışt
 
 Yapay zekâ, bilgisayarla görme, otonom sistemler, robotik ve İHA teknolojileri üzerine proje ve çalışmalar hakkında iletişime geçebilirsiniz.
 
-**LinkedIn:** `[www.linkedin.com/in/zeynepyildiz5308]`
+**LinkedIn:** www.linkedin.com/in/zeynepyildiz5308
 
 </div>
