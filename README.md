@@ -6,8 +6,7 @@
 
 ### Otonom Sistemler • Yapay Zeka • İHA Yazılımları
 
-Gerçek problemlere yönelik **yapay zekâ, bilgisayarla görme ve otonom sistemler** geliştiriyorum.
-
+Teorik bilgiyi uygulamaya dönüştürebildiğim ve gerçek problemlere çözüm üreten projelerde yer alıyorum.
 </div>
 
 ---
