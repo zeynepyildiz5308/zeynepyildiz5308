@@ -1,33 +1,51 @@
-# Merhaba, ben Zeynep
+<div align="center">
 
-Karadeniz Teknik Üniversitesi Bilgisayar Bilimleri bölümünde 3. sınıf öğrencisiyim. Özellikle yapay zekâ, bilgisayarla görme ve otonom sistemler üzerine çalışıyorum.
+# Merhaba, ben Zeynep Yıldız 
 
-TEKNOFEST kapsamında havacılıkta yapay zekâ, sürü İHA ve e-ticaret projelerinde aktif görev aldım. Bu süreçlerde görüntü işleme, makine öğrenmesi ve otonom karar mekanizmaları üzerine deneyim kazandım.
+### Bilgisayar Bilimleri Öğrencisi | Otonom Sistemler • Bilgisayarla Görme • İHA Yazılımları
 
-### 🎯 İlgilendiğim Odak Noktaları
+Yapay zekâ destekli algılama ve otonom sistemler geliştiriyor, teorik bilgiyi gerçek mühendislik projelerine dönüştürmeye çalışıyorum.
 
-- Otonom sistemler ve İHA yazılımları
-- Bilgisayarla görme (Computer Vision)
-- Makine öğrenmesi ve derin öğrenme
-- Gerçek zamanlı sistemler
-- Linux tabanlı geliştirme ortamları
-
-> *Teorik bilgiyi uygulamaya dönüştürebildiğim ve gerçek problemlere çözüm üreten projelerde yer almayı önemsiyorum.*
-
-<br/>
-
-### 🛠️ Kullandığım Teknolojiler
-
-<div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </div>
 
-<br/>
+---
 
-### 📫 İletişim
+## Hakkımda
 
-Projeler, fikirler veya teknik konular üzerine konuşmak istersen bana LinkedIn üzerinden ulaşabilirsin.
+Karadeniz Teknik Üniversitesi'nde **Bilgisayar Bilimleri 3. sınıf öğrencisiyim**.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zeynep-yildiz-7b8ba5398/)
+Özellikle **otonom İHA sistemleri, bilgisayarla görme, yapay zekâ, robotik ve gerçek zamanlı yazılım sistemleri** üzerine çalışıyorum.
+
+Aktif olarak **ASENAI** takımında yer alıyor; otonomi, güdüm, uçuş kontrolü ve sistem entegrasyonu konularında çalışmalar yürütüyorum.
+
+Teoride kalmaktansa öğrendiğim konuları proje, simülasyon ve yarışma çalışmalarına dönüştürmeyi tercih ediyorum.
+
+---
+
+## İlgi Alanlarım
+
+* Otonom Sistemler ve İHA Yazılımları
+* Bilgisayarla Görme
+* Yapay Zekâ ve Derin Öğrenme
+* Güdüm, Navigasyon ve Görev Sistemleri
+* Gerçek Zamanlı Sistemler
+* Simülasyon Tabanlı Geliştirme
+
+---
+
+## Kullandığım Teknolojiler
+
+### Programlama Dilleri
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square\&logo=cplusplus\&logoColor=white)
+
+### Yapay Zekâ ve Bilgisayarla Görme
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square\&logo=opencv\&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-111F68?style=flat-square)
+
+### Yazılım Geliştirme
+
+![Qt](https://img.shields.io/badge/Qt_6-41CD52?style=flat-square_)
